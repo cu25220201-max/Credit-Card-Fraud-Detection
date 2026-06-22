@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection using Machine Learning
 
+## overview
+
 This project aims to detect fraudulent credit card transactions using Machine Learning techniques. The model is trained on a real-world credit card transaction dataset and classifies transactions as either genuine or fraudulent.
 
 The project was developed as part of the CodeSoft Machine Learning Internship.
@@ -20,6 +22,24 @@ The project was developed as part of the CodeSoft Machine Learning Internship.
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
+
+cd Credit-Card-Fraud-Detection
+
+pip install -r requirements.txt
+
+#### 5. How to Run
+
+```md
+## Run Project
+
+```bash
+python fraud_detection.py
+
 
 ## Dataset Information
 
@@ -121,21 +141,39 @@ Genuine Transaction
 
 Project Completed Successfully
 
+## Project Screenshots
+
+
+### Dataset Overview
+
 <img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/bf77cf98-2f1b-4143-bb5e-668facd92b40" />
 
 <img width="263" height="446" alt="image" src="https://github.com/user-attachments/assets/530f94c1-4f73-48a4-a881-532a0616762b" />
 
 <img width="273" height="351" alt="image" src="https://github.com/user-attachments/assets/5bf2760e-1089-4b07-a51f-f75cb1cc30db" />
 
+<img width="359" height="333" alt="image" src="https://github.com/user-attachments/assets/09898301-92c3-4eaf-b12f-ae6fb8dbeb30" />
+
+### Fraud vs Genuine Transactions
+
 
 <img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/07ef0bec-8a98-4a4d-a2da-2dd45502f678" />
+
+### Correlation Heatmap
+
 
 <img width="797" height="446" alt="image" src="https://github.com/user-attachments/assets/cc442e03-5509-4656-858d-692c54f47712" />
 
 <img width="847" height="434" alt="image" src="https://github.com/user-attachments/assets/9424e34e-a8dd-49d3-94e9-21a3d2e5081a" />
 
 
+### ROC Curve
+
+
 <img width="781" height="443" alt="image" src="https://github.com/user-attachments/assets/131a2197-8436-4f5a-8afd-8ab2cb5667c6" />
+
+### Confusion Matrix
+
 
 <img width="845" height="439" alt="image" src="https://github.com/user-attachments/assets/b1e28e5f-870f-4236-b325-52de018471db" />
 
