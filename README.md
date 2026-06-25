@@ -25,19 +25,17 @@ The project was developed as part of the CodeSoft Machine Learning Internship.
 
 ## Installation
 
-```bash
+
 git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
 
 cd Credit-Card-Fraud-Detection
 
 pip install -r requirements.txt
 
-#### 5. How to Run
+## 5. How to Run
 
-```md
 ## Run Project
 
-```bash
 python fraud_detection.py
 
 
@@ -144,7 +142,7 @@ Project Completed Successfully
 ## Project Screenshots
 
 
-### Dataset Overview
+## Dataset Overview
 
 <img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/bf77cf98-2f1b-4143-bb5e-668facd92b40" />
 
@@ -154,12 +152,12 @@ Project Completed Successfully
 
 <img width="359" height="333" alt="image" src="https://github.com/user-attachments/assets/09898301-92c3-4eaf-b12f-ae6fb8dbeb30" />
 
-### Fraud vs Genuine Transactions
+## Fraud vs Genuine Transactions
 
 
 <img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/07ef0bec-8a98-4a4d-a2da-2dd45502f678" />
 
-### Correlation Heatmap
+## Correlation Heatmap
 
 
 <img width="797" height="446" alt="image" src="https://github.com/user-attachments/assets/cc442e03-5509-4656-858d-692c54f47712" />
@@ -167,12 +165,12 @@ Project Completed Successfully
 <img width="847" height="434" alt="image" src="https://github.com/user-attachments/assets/9424e34e-a8dd-49d3-94e9-21a3d2e5081a" />
 
 
-### ROC Curve
+## ROC Curve
 
 
 <img width="781" height="443" alt="image" src="https://github.com/user-attachments/assets/131a2197-8436-4f5a-8afd-8ab2cb5667c6" />
 
-### Confusion Matrix
+##  Confusion Matrix
 
 
 <img width="845" height="439" alt="image" src="https://github.com/user-attachments/assets/b1e28e5f-870f-4236-b325-52de018471db" />
